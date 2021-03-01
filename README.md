@@ -1,7 +1,7 @@
 # snapshot
 AWS Project
 
-##DEMO PROJECT TO SHOW AWS INSTANCES
+##SHOW AWS INSTANCES
 
 ##CONFIGURING
 "aws configure --profile shotty"
