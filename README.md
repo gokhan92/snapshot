@@ -1,4 +1,4 @@
-# snapshot
+# Showing instances
 AWS Project
 
 ##SHOW AWS INSTANCES
